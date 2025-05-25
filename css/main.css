@@ -23,4 +23,20 @@ nav ul{
 nav ul li{
     display: inline;
     margin-right: 20px;
-}
+    }
+
+    section{
+        padding: 20px;
+        background-color: #d1a7a7;
+        margin: 20px 0;
+    }
+
+    section h2{
+        color: #fff;
+        font-size: 1.5em;
+    }
+
+    section p{
+        color: #ffffff;
+        font-size: 1em;
+    }
