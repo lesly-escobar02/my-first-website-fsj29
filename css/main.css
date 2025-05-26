@@ -24,3 +24,15 @@ nav ul li{
     display: inline;
     margin-right: 20px;
 }
+
+section{
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+footer{
+    background-color: #ca8585;
+    color: rgb(145, 98, 98);
+    text-align: center;
+    padding: 10px;
+}
